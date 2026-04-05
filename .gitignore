@@ -1,0 +1,8 @@
+.sixth/
+Thumbs.db
+.DS_Store
+
+*.asv
+*.autosave
+*.mlx.autosave
+*.fig
